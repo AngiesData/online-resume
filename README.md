@@ -22,17 +22,17 @@ To add a completed course:
 ## Add your photograph
 
 1. Upload your photograph to the repository.
-2. Name it `profile.jpg`.
+2. Name it `profile.png`.
 3. In `index.html`, change:
 
 ```html
-src="profile-placeholder.svg"
+src="https://i.imgur.com/profile.png"
 ```
 
 to:
 
 ```html
-src="profile.jpg"
+src="profile.png"
 ```
 
 ## Publish with GitHub Pages
