@@ -8,19 +8,16 @@ inside the resumeData object below.
 
 const resumeData = {
   name: "Angela",
-  headline: "Lead FInancial Clearance | Revenue Cycle | IP-Surgucal-Maternity",
-  "B.A. Liberal Arts-Business | CIS | MA Lic. | LSSBB | CPC-A | CPMA | CRC | RCMS| CPCO|",
-
+  headline:  "Lead Financial Clearance | Revenue Cycle | Healthcare Operations | CIS | Business Administration",
+  
   summary:
-    "Adaptable professional with experience in training, customer service, healthcare operations, and technology." ,
-    "Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly.",
-    "Remote healthcare and IT professional with 5+ years of experience in insurance Financial Clearance and Revenue Cycle processing." ,
-    "Lead duties include training, ER admits, data validation, and QA support." ,
-    "Skilled at troubleshooting technical issues, training peers, and improving workflows across multiple systems." ,
-    "Adept at learning new platforms quickly and balancing accuracy with high-volume demands in deadline-driven environments." ,
-    "Education includes an associate’s degree in Computer Information Systems and currently pursuing a bachelors in Business Administration."  ,
-    "Seeking a remote evening or overnight position with structured on-the-job training during those hours. Availability includes nights, weekends, and Holidays.",
-
+ summary:
+  "Adaptable professional with experience in training, customer service, healthcare operations, and technology. " +
+  "Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly. " +
+  "Remote healthcare and IT professional with more than five years of experience in insurance financial clearance and revenue cycle processing. " +
+  "Lead responsibilities include training, ER admissions, data validation, quality assurance, technical troubleshooting, and workflow improvement. " +
+  "Seeking a remote evening or overnight position with structured on-the-job training. Availability includes nights, weekends, and holidays.",
+  
   contact: [
     { label: "Location", value: "Massachusetts, USA" },    
     { label: "Location", value: "Remote: including Evenings/Overnights and Holidays" },
@@ -47,24 +44,24 @@ const resumeData = {
   ],
 
   tools: [
-    "EHR:Epic",
-    "Waystar"
-    "Availity"
-    "Online Insurance Payer Portal Platforms"
-    "Microsoft Office",
-    "Microsoft Access",
-    "Microsoft Azure",
-    "RDBMS: SQL",
-    "MySQL",
-    "Jira",
-    "GitHub",
-    "HTML/CSS",
-    "Python",
-    "CRM",
-    "Tableau",
-    "AWS", 
-    "Google Cloud"
-  ],
+  "Epic EHR",
+  "Waystar",
+  "Availity",
+  "Online Insurance Payer Portals",
+  "Microsoft Office",
+  "Microsoft Access",
+  "Microsoft Azure",
+  "SQL",
+  "MySQL",
+  "Jira",
+  "GitHub",
+  "HTML/CSS",
+  "Python",
+  "CRM Systems",
+  "Tableau",
+  "AWS",
+  "Google Cloud"
+],
 
   languages: ["English"],
 
@@ -74,15 +71,15 @@ const resumeData = {
       title: "Lead Financial Clearance Specialist (Remote)",
       organization: "UMMHC · Massachusetts",
       bullets: [
-        "Train and support new employees from diverse professional backgrounds.",
-        "Explain workflows, policies, and systems using clear step-by-step instruction.",
-        "Identify learning gaps and provide individualized coaching and feedback.",
-        "Partner with leadership to improve onboarding and employee readiness.",
-        "Distribute and monitor workflow for team, assist where needed; host daily huddles and forums to address payer updates, account or technical issues. Communication includes using Microsoft Outlook, Teams, emails, Jabber/Cisco & Finesse.",
-        "Provide QA/QC review of accounts; perform insurance eligibility, referrals, and authorizations.",
-        "Train staff on system changes; contributed to the previously used Waystar automation system testing and job aid documentation.",
-        "Serve as go-to for collaborations, support, technical or account processing issues while maintaining regular specialist duties.",  
-      ]
+      "Train and support new employees from diverse professional backgrounds.",
+      "Explain workflows, policies, and systems using clear step-by-step instruction.",
+      "Identify learning gaps and provide individualized coaching and feedback.",
+      "Partner with leadership to improve onboarding and employee readiness.",
+      "Distribute and monitor workflow for the team, assist where needed, and host daily huddles.",
+      "Provide QA/QC review of accounts and perform insurance eligibility, referral, and authorization work.",
+      "Train staff on system changes and contribute to system testing and job-aid documentation.",
+      "Serve as a resource for technical, account-processing, and collaboration issues."
+]
     },
     {
       dates: "03/2020-06/2023",
@@ -119,10 +116,10 @@ const resumeData = {
       dates: "2012-2019",
       title: "Research Scientist III / Formulation Technician III",
       organization: "Confidential Employer (Biotech/Pharma Industy · Massachusetts",
-      bullets: [
+       bullets: [
         "Coordinated deadlines and managed projects independently and within teams.",
-        "Trained new employees; maintained compliance with HIPAA, GLP/cGMP.",
-        "Conducted calculations, compound formulation, and QA review of data.".
+        "Trained new employees and maintained compliance with GLP and cGMP requirements.",
+        "Conducted calculations, compound formulation, and QA review of data."
       ]
     }
 
@@ -147,11 +144,11 @@ const resumeData = {
      
     {
       dates: "Expected 2028",
-      title: "Masters of Business Administration",
+      title: "Master of Business Administration",
       organization: "Acacia University",
       bullets: [
         "Relevant studies: leadership, organizational behavior, communication, and business strategy."
-      
+      ]
     },
      
     {
@@ -208,7 +205,7 @@ const resumeData = {
       bullets: [
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, and project leadership."
       ]
-    }
+    },
     {
       title: "Regulations",
       organization: "Industry Regulations and Guidelines",
