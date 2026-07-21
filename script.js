@@ -55,37 +55,37 @@ const resumeData = {
   "Process Improvement"
 ],
 
-industryCertifications: [
-  "MA Health & Life Insurance License",
-  "MA Health Connector SHOP",
-  "HIPAA",
-  "AML",
-  "LSSBB",
+  industryCertifications: [
+    "MA Health & Life Insurance License",
+    "MA Health Connector SHOP",
+    "HIPAA",
+    "AML",
+    "LSSBB",
 
 ],
 
-currentlyLearning: [
-  "B.A. Liberal Arts – Business Administration",
+  currentlyLearning: [
+    "B.A. Liberal Arts – Business Administration",
 ],
 
-tools: [
-  "Epic EHR",
-  "Waystar",
-  "Availity",
-  "Insurance Payer Portals",
-  "Microsoft Office",
-  "Microsoft Access",
-  "Microsoft Azure",
-  "SQL",
-  "MySQL",
-  "Jira",
-  "GitHub",
-  "HTML/CSS",
-  "Python",
-  "CRM Systems",
-  "Tableau",
-  "AWS",
-  "Google Cloud"
+  tools: [
+    "Epic EHR",
+    "Waystar",
+    "Availity",
+    "Insurance Payer Portals",
+    "Microsoft Office",
+    "Microsoft Access",
+    "Microsoft Azure",
+    "SQL",
+    "MySQL",
+    "Jira",
+    "GitHub",
+    "HTML/CSS",
+    "Python",
+    "CRM Systems",
+    "Tableau",
+    "AWS",
+    "Google Cloud"
 ],
 
   languages: [
