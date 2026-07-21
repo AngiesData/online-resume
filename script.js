@@ -41,14 +41,23 @@ const resumeData = {
   ],
 
   tools: [
-    "SQL",
+    "RDBMS: SQL",
     "MySQL",
     "Microsoft Access",
+    "Microsoft Office",
     "Jira",
     "GitHub",
     "HTML/CSS",
-    "Python Basics",
-    "Epic"
+    "Python",
+    "EHR:Epic",
+    "Waystar"
+    "Availity"
+    "Online Insurance Payer Portal Platforms"
+    "CRM:,
+    "Tableau",
+    "AWS", 
+    "Microsoft Azre",
+    "Google Cloud"
   ],
 
   languages: ["English"],
