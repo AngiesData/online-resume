@@ -206,7 +206,7 @@ const resumeData = {
       bullets: [
         "Relevant coursework included medical studies, computer systems, and general education."
       ]
-    }
+    },
     
     {
       dates: "",
