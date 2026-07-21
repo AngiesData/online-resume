@@ -15,7 +15,8 @@ const resumeData = {
     "Adaptable professional with experience in training, customer service, healthcare operations, and technology. Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly.",
 
   contact: [
-    { label: "Location", value: "Massachusetts, USA" },
+    { label: "Location", value: "Massachusetts, USA" },    
+    { label: "Location", value: "Remote: including Evenings/Overnights and Holidays" },
     { label: "Email", value: "insurancewithangela@gmail.com", link: "mailto:insurancewithangela@gmail.com" },
     /*{ label: "LinkedIn", value: "linkedin.com/in/yourname", link: "https://www.linkedin.com/in/yourname" },*/
     /*{ label: "GitHub", value: "github.com/yourusername", link: "https://github.com/yourusername" }*/
