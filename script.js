@@ -225,7 +225,7 @@ const resumeData = {
       title: "State Health and Life Insurance License",
       organization: "Massachusetts · Multi-State",
       bullets: [
-        "Licensed for accident and health or sickness, life insurance, and travel insurance."
+        "Licensed for accident and health or sickness, life, and travel insurance."
       ]
     },
 
