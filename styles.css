@@ -131,11 +131,7 @@ h1 {
   color: var(--coral);
 }
 
-.tag-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 9px;
-}
+
 
 .tag-list,
 .sidebar-list {
