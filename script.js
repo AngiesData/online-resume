@@ -26,7 +26,7 @@ const resumeData = {
     },
     {
       label: "Availability",
-      value: "Remote evenings, overnights, weekends, and holidays"
+      value: "Remote Evenings, Overnights, Weekends, and Holidays"
     },
     {
       label: "Email",
