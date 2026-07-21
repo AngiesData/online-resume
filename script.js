@@ -11,7 +11,7 @@ const resumeData = {
   name: "Angela",
 
   headline:
-    "Lead Financial Clearance | <br> Revenue Cycle:  <br> IP - Surgical - Maternity| <br> Technology and Leadership",
+    "Lead Financial Clearance |", <br> "Revenue Cycle:",  <br> "IP - Surgical - Maternity|", <br> "Technology and Leadership",
 
 
   summary:
