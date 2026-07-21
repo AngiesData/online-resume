@@ -55,25 +55,14 @@ const resumeData = {
 ],
 
 industryCertifications: [
-  "Massachusetts Health & Life Insurance License",
-  "Lean White Belt",
-  "Lean Yellow Belt",
-  "AHIP Certification",
-  "Massachusetts Health Connector SHOP Certification",
-  "HIPAA Training",
-  "Anti-Money Laundering Training",
-  "Long-Term Care Certification",
-  "Annuities Certification"
+  "MA Health & Life Insurance License",
+  "MA Health Connector SHOP",
+  "HIPAA",
+  "AML",
 ],
 
 currentlyLearning: [
   "B.A. Liberal Arts – Business Administration",
-  "Lean Six Sigma Black Belt",
-  "Medical Coding",
-  "Healthcare Compliance",
-  "Healthcare Analytics",
-  "Leadership Development",
-  "Professional Portfolio Development"
 ],
 
 tools: [
