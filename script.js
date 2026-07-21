@@ -14,11 +14,11 @@ const resumeData = {
   summary:
     "Adaptable professional with experience in training, customer service, healthcare operations, and technology. Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly."
     "Remote healthcare and IT professional with 5+ years of experience in insurance Financial Clearance and Revenue Cycle processing." 
-     "Lead duties include training, ER admits, data validation, and QA support." 
-     "Skilled at troubleshooting technical issues, training peers, and improving workflows across multiple systems." 
-     "Adept at learning new platforms quickly and balancing accuracy with high-volume demands in deadline-driven environments." 
+    "Lead duties include training, ER admits, data validation, and QA support." 
+    "Skilled at troubleshooting technical issues, training peers, and improving workflows across multiple systems." 
+    "Adept at learning new platforms quickly and balancing accuracy with high-volume demands in deadline-driven environments." 
     "Education includes an associate’s degree in Computer Information Systems and currently pursuing a bachelors in Business Administration."  
-     "Seeking a remote evening or overnight position with structured on-the-job training during those hours. Availability includes nights, weekends, and Holidays.",
+    "Seeking a remote evening or overnight position with structured on-the-job training during those hours. Availability includes nights, weekends, and Holidays.",
 
   contact: [
     { label: "Location", value: "Massachusetts, USA" },    
@@ -136,38 +136,83 @@ const resumeData = {
 
   education: [
     {
-      dates: "Expected 2027",
-      title: "Masters of Science in Management",
-      organization: "University Name",
+      dates: "Expected 2029",
+      title: "Doctorate of Business Administration",
+      organization: "Acacia University",
       bullets: [
         "Relevant studies: leadership, organizational behavior, communication, and business strategy."
       ]
     },
+     
+    {
+      dates: "Expected 2028",
+      title: "Masters of Business Administration",
+      organization: "Acacia University",
+      bullets: [
+        "Relevant studies: leadership, organizational behavior, communication, and business strategy."
+      
+    },
+     
+    {
+      dates: "Current 2026",
+      title: "B.A. in Liberal Arts Business Administration",
+      organization: "Newlane University",
+      bullets: [
+        "Relevant studies: leadership, organizational behavior, communication, and business strategy."
+      
+    },
+
+     
     {
       dates: "2025",
-      title: "Associate of Science in Computer Information Systems",
-      organization: "College Name",
+      title: "A.S. in Computer Information Systems",
+      organization: "Ashworth College <em>Summa cum laude</em> (DET)",
       bullets: [
-        "Coursework included databases, programming fundamentals, web development, cloud technology, and systems analysis."
+        "Relevant coursework: Database Management, Quality Assurance, Systems Analysis."
+      
+    },
+
+     
+    {
+      title: "•	Biomedical Lab & Clinical Sciences Concentration",
+      organization: "Boston University School of Medicine, City Lab Academy",
+      bullets: [
+        "Relevant coursework: Chemistry, Biochemistry, H&P, Microbiology, Biostatistics."
+      
+    },
+
+    
+    {
+      title: "•	A.S. in General Studies ",
+      organization: "Quinsigamond Community College",
+      bullets: [
+        "Relevant coursework: Medical and Computer Systems."
       ]
     }
   ],
 
   certifications: [
     {
-      dates: "In Progress",
-      title: "Medical Billing and Coding / CPC Preparation",
-      organization: "Training Provider",
+      dates: "Current 2026",
+      title: "•	State Health & Life Insurance License",
+      organization: "Massachusetts (multi-state)",
       bullets: [
-        "Studying ICD-10-CM, CPT, HCPCS, healthcare reimbursement, compliance, and medical terminology."
+        "Accident & Health or Sickness, Life, and Travel."
       ]
     },
     {
-      dates: "Completed",
+      dates: "2026",
       title: "Lean Six Sigma Black Belt Training",
       organization: "Certification Provider",
       bullets: [
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, and project leadership."
+      ]
+    }
+    {
+      title: "Regulations",
+      organization: "Industry Regulations and Guidelines",
+      bullets: [
+        "HIPAA, AML, LTC, Annuities, AHIP, SHOP certifications."
       ]
     }
   ],
