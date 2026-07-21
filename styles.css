@@ -87,6 +87,7 @@ h1 {
   color: #dce5ef;
   font-size: 0.95rem;
   line-height: 1.65;
+  white-space: pre-line;
 }
 
 #headline {
