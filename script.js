@@ -191,7 +191,7 @@ const resumeData = {
     },
 
     {
-      dates: "2025",
+      dates: "Graduate 2025",
       title: "Associate of Science in Computer Information Systems",
       organization: "Ashworth College · Summa Cum Laude",
       bullets: [
@@ -214,7 +214,7 @@ const resumeData = {
       title: "Associate of Science in General Studies",
       organization: "Quinsigamond Community College",
       bullets: [
-        "Relevant coursework included medical systems, computer systems, and general education."
+        "Relevant coursework included medical studies, computer systems, and general education."
       ]
     }
   ],
