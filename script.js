@@ -377,7 +377,7 @@ function renderTags(elementId, items) {
 function renderEntries(elementId, items) {
   const container = document.getElementById(elementId);
 
-  if (!container) {
+  if (!container || !Array.isArray(items)) {
     return;
   }
 
@@ -447,8 +447,9 @@ renderTags("languages-list", resumeData.languages);
 renderEntries("experience-list", resumeData.experience);
 renderEntries("education-list", resumeData.education);
 renderEntries("certifications-list", resumeData.certifications);
-renderEntries("projects-list", resumeData.projects);
 
+// Projects are temporarily hidden.
+// renderEntries("projects-list", resumeData.projects);
 
 const yearElement = document.getElementById("year");
 const updatedDateElement = document.getElementById("updated-date");
