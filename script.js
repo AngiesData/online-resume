@@ -243,7 +243,7 @@ const resumeData = {
       title: "Healthcare and Insurance Compliance Training",
       organization: "Industry Regulations and Guidelines",
       bullets: [
-        "Training includes HIPAA, anti-money laundering, long-term care, annuities, AHIP, and Massachusetts Health Connector SHOP requirements."
+        "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
       ]
     }
   ],
