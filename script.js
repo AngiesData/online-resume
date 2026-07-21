@@ -11,7 +11,10 @@ const resumeData = {
   name: "Angela",
 
   headline:
-    "Lead Financial Clearance | Revenue Cycle: IP - Surgical - Maternity| Technology and Leadership",
+    "Lead Financial Clearance |",
+  headline:
+    "Revenue Cycle: IP - Surgical - Maternity| Technology and Leadership",
+
 
   summary:
     "Adaptable healthcare operations and information technology professional with experience in financial clearance, revenue cycle processing, employee training, customer service, data validation, and quality assurance. Skilled at explaining complex processes, supporting team performance, troubleshooting technical issues, and improving workflows across multiple systems. Experienced in balancing priorities and accuracy with high-volume demands in deadline-driven environments. Currently expanding knowledge in business administration, medical coding, healthcare compliance, process improvement, and technology. Seeking remote evening or overnight opportunities with structured training and professional growth.",
