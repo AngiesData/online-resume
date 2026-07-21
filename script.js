@@ -30,11 +30,11 @@ const resumeData = {
       value: "insurancewithangela@gmail.com",
       link: "mailto:insurancewithangela@gmail.com"
     },
-    {
+/*    {
       label: "GitHub",
       value: "github.com/AngiesData",
       link: "https://github.com/AngiesData"
-    }
+    }*/
   ],
 
   skills: [
@@ -145,7 +145,7 @@ const resumeData = {
   ],
 
   education: [
-    {
+/*    {
       dates: "Expected 2029",
       title: "Doctor of Business Administration",
       organization: "Acacia University",
@@ -161,7 +161,10 @@ const resumeData = {
       bullets: [
         "Planned studies include leadership, organizational behavior, communication, management, and business strategy."
       ]
-    },
+    },*/
+
+
+    
 
     {
       dates: "Current · 2026",
@@ -230,7 +233,11 @@ const resumeData = {
     }
   ],
 
-  projects: [
+
+
+  
+
+/*  projects: [
     {
       dates: "2025",
       title: "Around My Way Dashboard",
@@ -266,7 +273,11 @@ const resumeData = {
       linkText: "View Portfolio",
       link: "https://angiesdata.github.io/online-resume/"
     }
-  ]
+  ]*/
+
+
+
+  
 };
 
 
