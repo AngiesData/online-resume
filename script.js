@@ -9,7 +9,7 @@ inside the resumeData object below.
 const resumeData = {
   name: "Angela",
   headline: "Lead FInancial Clearance | Revenue Cycle | IP-Surgucal-Maternity",
-  headline: "B.A. Liberal Arts-Business | CIS | MA Lic. | LSSBB | CPC-A | CPMA | CRC | RCMS| CPCO|",
+  "B.A. Liberal Arts-Business | CIS | MA Lic. | LSSBB | CPC-A | CPMA | CRC | RCMS| CPCO|",
 
   summary:
     "Adaptable professional with experience in training, customer service, healthcare operations, and technology." ,
