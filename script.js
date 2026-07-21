@@ -201,6 +201,15 @@ const resumeData = {
 
     {
       dates: "",
+      title: "Associate of Science in General Studies",
+      organization: "Quinsigamond Community College",
+      bullets: [
+        "Relevant coursework included medical studies, computer systems, and general education."
+      ]
+    }
+    
+    {
+      dates: "",
       title: "Biomedical Laboratory & Clinical Sciences Concentration",
       organization:
         "Boston University School of Medicine · CityLab Academy",
@@ -209,14 +218,7 @@ const resumeData = {
       ]
     },
 
-    {
-      dates: "",
-      title: "Associate of Science in General Studies",
-      organization: "Quinsigamond Community College",
-      bullets: [
-        "Relevant coursework included medical studies, computer systems, and general education."
-      ]
-    }
+
   ],
 
   certifications: [
