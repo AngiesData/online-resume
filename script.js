@@ -213,19 +213,10 @@ const resumeData = {
 
     {
       dates: "2026",
-      title: "Lean Six Sigma Black Belt Training",
+      title: "Lean Six Sigma Black Belt",
       organization: "Professional Development",
       bullets: [
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, quality improvement, and project leadership."
-      ]
-    },
-
-    {
-      dates: "",
-      title: "Lean White Belt and Lean Yellow Belt",
-      organization: "Professional Development",
-      bullets: [
-        "Completed foundational training in Lean principles, waste reduction, standard work, and continuous improvement."
       ]
     },
 
