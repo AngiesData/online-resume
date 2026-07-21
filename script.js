@@ -133,7 +133,7 @@ const resumeData = {
     {
       dates: "2018 – 2021",
       title:
-        "Independent Healthcare Insurance Broker & Call Center Representative",
+        "Independent Healthcare Insurance Broker",
       organization: "Self-Employed · Massachusetts",
       bullets: [
         "Sold and serviced health and life insurance policies across multiple states.",
