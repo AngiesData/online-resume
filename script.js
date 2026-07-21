@@ -12,7 +12,7 @@ const resumeData = {
 
   headline:  
    `Lead Financial Clearance |
-      Revenue Cycle | 
+      Revenue Cycle: 
       IP – Surgical – Maternity | 
       Technology & Leadership`,
 
