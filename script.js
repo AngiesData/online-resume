@@ -200,7 +200,7 @@ const resumeData = {
     },
 
     {
-      dates: "",
+      dates: "2012",
       title: "Associate of Science in General Studies",
       organization: "Quinsigamond Community College",
       bullets: [
