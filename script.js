@@ -7,17 +7,17 @@ inside the resumeData object below.
 */
 
 const resumeData = {
-  name: "Your Name",
-  headline: "Lead Trainer | Information Systems Graduate | Future Management Professional",
+  name: "Angela",
+  headline: "Lead FInancial Clearance | Revenue Cycle | IP-Surgucal-Maternity",
 
   summary:
     "Adaptable professional with experience in training, customer service, healthcare operations, and technology. Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly.",
 
   contact: [
     { label: "Location", value: "Massachusetts, USA" },
-    { label: "Email", value: "youremail@example.com", link: "mailto:youremail@example.com" },
-    { label: "LinkedIn", value: "linkedin.com/in/yourname", link: "https://www.linkedin.com/in/yourname" },
-    { label: "GitHub", value: "github.com/yourusername", link: "https://github.com/yourusername" }
+    { label: "Email", value: "insurancewithangela@gmail.com", link: "mailto:insurancewithangela@gmail.com" },
+    /*{ label: "LinkedIn", value: "linkedin.com/in/yourname", link: "https://www.linkedin.com/in/yourname" },*/
+    /*{ label: "GitHub", value: "github.com/yourusername", link: "https://github.com/yourusername" }*/
   ],
 
   skills: [
