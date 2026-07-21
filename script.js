@@ -11,7 +11,7 @@ const resumeData = {
   name: "Angela",
 
   headline:
-    "Lead Financial Clearance | Revenue Cycle | IP - Surgical - Maternity",
+    "Lead Financial Clearance | Revenue Cycle: IP - Surgical - Maternity| Technology and Leadership",
 
   summary:
     "Adaptable healthcare operations and information technology professional with experience in financial clearance, revenue cycle processing, employee training, customer service, data validation, and quality assurance. Skilled at explaining complex processes, supporting team performance, troubleshooting technical issues, and improving workflows across multiple systems. Experienced in balancing priorities and accuracy with high-volume demands in deadline-driven environments. Currently expanding knowledge in business administration, medical coding, healthcare compliance, process improvement, and technology. Seeking remote evening or overnight opportunities with structured training and professional growth.",
@@ -38,42 +38,63 @@ const resumeData = {
   ],
 
   skills: [
-    "Lead Specialist",
-    "Team Leadership",
-    "Training & Coaching",
-    "Insurance Eligibility Verification",
-    "Prior Authorization",
-    "Emergency Room Admissions",
-    "Data Validation",
-    "Quality Assurance Support",
-    "Technical Troubleshooting",
-    "Workflow Improvement",
-    "High-Volume Prioritization",
-    "Critical Thinking",
-    "Creative Problem Solving",
-    "Process Improvement",
-    "Adaptability"
-  ],
+  "Lead Specialist",
+  "Team Leadership",
+  "Training & Coaching",
+  "Insurance Eligibility Verification",
+  "Prior Authorization",
+  "ER Admissions",
+  "Data Validation",
+  "QA Support",
+  "Technical Troubleshooting",
+  "Workflow Improvement",
+  "High-Volume Prioritization",
+  "Critical Thinking",
+  "Creative Problem Solving",
+  "Process Improvement"
+],
 
-  tools: [
-    "Epic EHR",
-    "Waystar",
-    "Availity",
-    "Insurance Payer Portals",
-    "Microsoft Office",
-    "Microsoft Access",
-    "Microsoft Azure",
-    "SQL",
-    "MySQL",
-    "Jira",
-    "GitHub",
-    "HTML/CSS",
-    "Python",
-    "CRM Systems",
-    "Tableau",
-    "AWS",
-    "Google Cloud"
-  ],
+industryCertifications: [
+  "Massachusetts Health & Life Insurance License",
+  "Lean White Belt",
+  "Lean Yellow Belt",
+  "AHIP Certification",
+  "Massachusetts Health Connector SHOP Certification",
+  "HIPAA Training",
+  "Anti-Money Laundering Training",
+  "Long-Term Care Certification",
+  "Annuities Certification"
+],
+
+currentlyLearning: [
+  "B.A. Liberal Arts – Business Administration",
+  "Lean Six Sigma Black Belt",
+  "Medical Coding",
+  "Healthcare Compliance",
+  "Healthcare Analytics",
+  "Leadership Development",
+  "Professional Portfolio Development"
+],
+
+tools: [
+  "Epic EHR",
+  "Waystar",
+  "Availity",
+  "Insurance Payer Portals",
+  "Microsoft Office",
+  "Microsoft Access",
+  "Microsoft Azure",
+  "SQL",
+  "MySQL",
+  "Jira",
+  "GitHub",
+  "HTML/CSS",
+  "Python",
+  "CRM Systems",
+  "Tableau",
+  "AWS",
+  "Google Cloud"
+],
 
   languages: [
     "English"
@@ -420,6 +441,14 @@ function renderEntries(elementId, items) {
 renderContact(resumeData.contact);
 
 renderTags("skills-list", resumeData.skills);
+renderTags(
+  "industry-certifications-list",
+  resumeData.industryCertifications
+);
+renderTags(
+  "currently-learning-list",
+  resumeData.currentlyLearning
+);
 renderTags("tools-list", resumeData.tools);
 renderTags("languages-list", resumeData.languages);
 
