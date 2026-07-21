@@ -57,7 +57,7 @@ const resumeData = {
 
   industryCertifications: [
     "MA Health & Life Insurance License",
-    "MA Health Connector SHOP",
+    "SHOP",
     "HIPAA",
     "AML",
     "LSSBB",
