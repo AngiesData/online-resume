@@ -12,8 +12,66 @@
 </head>
 
 <body>
-  <main class="resume">
-    <aside class="sidebar">
+
+<!-- ===== PRIVATE PORTFOLIO ACCESS SCREEN ===== -->
+
+<section id="access-gate" class="access-gate">
+  <div class="access-card">
+
+    <img
+      class="access-photo"
+      src="profile2026.png"
+      alt="Professional portfolio avatar"
+    >
+
+    <p class="access-label">Private Portfolio</p>
+
+    <h1 class="access-title">Professional Portfolio</h1>
+
+    <p class="access-message">
+      Thank you for visiting. Please enter the current access
+      password to view this professional portfolio.
+    </p>
+
+    <form id="access-form" class="access-form">
+      <label for="portfolio-password">
+        Access Password
+      </label>
+
+      <input
+        id="portfolio-password"
+        name="portfolio-password"
+        type="password"
+        autocomplete="current-password"
+        placeholder="Enter password"
+        required
+      >
+
+      <button class="access-button" type="submit">
+        Enter Portfolio
+      </button>
+
+      <p
+        id="access-error"
+        class="access-error"
+        role="alert"
+        aria-live="polite"
+      ></p>
+    </form>
+
+    <a
+      class="hire-button"
+      href="mailto:insurancewithangela@gmail.com?subject=Professional%20Opportunity&body=Hello%20Angela%2C%0A%0AI%20visited%20your%20professional%20portfolio%20and%20would%20like%20to%20connect%20regarding%20a%20professional%20opportunity.%0A%0A"
+    >
+      Hire Me
+    </a>
+
+  </div>
+</section>
+  
+  
+<main id="protected-portfolio" class="resume protected-portfolio">
+  <aside class="sidebar">
       <div class="profile">
         <!-- profile.png  -->
         <img class="profile-photo" src="profile2026.png" alt="Profile Avatar">
@@ -108,6 +166,7 @@
     </section>
   </main>
 
-  <script src="script.js"></script>
+<script src="script.js"></script>
+<script src="access.js"></script>
 </body>
 </html>
