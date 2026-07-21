@@ -579,7 +579,7 @@ footer {
   .content-section {
     break-inside: avoid;
   }
-
+}
 .portfolio-actions {
   display: flex;
   align-items: center;
