@@ -62,6 +62,8 @@ industryCertifications: [
   "MA Health Connector SHOP",
   "HIPAA",
   "AML",
+  "LSSBB",
+
 ],
 
 currentlyLearning: [
