@@ -1,0 +1,199 @@
+:root {
+  --text: #111111;
+  --muted: #4f4f4f;
+  --accent: #1f6f68;
+  --line: #b9b9b9;
+  --paper: #ffffff;
+  --screen: #eeeeee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 28px;
+  background: var(--screen);
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.25;
+}
+
+.ats-resume {
+  width: 8.5in;
+  min-height: 11in;
+  margin: 0 auto;
+  padding: 0.42in 0.48in;
+  background: var(--paper);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.12);
+}
+
+.resume-navigation {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.resume-navigation a,
+.resume-navigation button {
+  padding: 9px 13px;
+  border: 0;
+  border-radius: 5px;
+  background: var(--accent);
+  color: #ffffff;
+  font: inherit;
+  font-size: 9pt;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.resume-header {
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--accent);
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 20pt;
+  line-height: 1.05;
+}
+
+.professional-title {
+  margin: 5px 0;
+  font-size: 10pt;
+  font-weight: 700;
+}
+
+.contact-line {
+  margin: 0;
+  font-size: 8.5pt;
+}
+
+a {
+  color: inherit;
+}
+
+section {
+  margin-top: 9px;
+}
+
+h2 {
+  margin: 0 0 4px;
+  padding-bottom: 2px;
+  border-bottom: 1px solid var(--line);
+  color: var(--accent);
+  font-size: 10.5pt;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+section p {
+  margin: 3px 0;
+}
+
+.keyword-list {
+  font-size: 9pt;
+  line-height: 1.3;
+}
+
+.job {
+  margin-top: 7px;
+}
+
+.job-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+.job-heading h3 {
+  margin: 0;
+  font-size: 10pt;
+}
+
+.job-heading p {
+  margin: 1px 0 0;
+  color: var(--muted);
+  font-size: 8.5pt;
+  font-style: italic;
+}
+
+.job-date {
+  flex: 0 0 auto;
+  color: var(--text) !important;
+  font-weight: 700;
+  font-style: normal !important;
+  white-space: nowrap;
+}
+
+ul {
+  margin: 3px 0 0;
+  padding-left: 17px;
+}
+
+li {
+  margin-bottom: 1px;
+  font-size: 8.7pt;
+  line-height: 1.2;
+}
+
+.compact-section p {
+  font-size: 8.7pt;
+  line-height: 1.2;
+}
+
+
+@media (max-width: 850px) {
+  body {
+    padding: 0;
+    background: var(--paper);
+  }
+
+  .ats-resume {
+    width: 100%;
+    min-height: auto;
+    padding: 24px 20px;
+    box-shadow: none;
+  }
+
+  .job-heading {
+    flex-direction: column;
+    gap: 1px;
+  }
+}
+
+@media print {
+  @page {
+    size: letter portrait;
+    margin: 0;
+  }
+
+  body {
+    padding: 0;
+    background: #ffffff;
+  }
+
+  .ats-resume {
+    width: 8.5in;
+    height: 11in;
+    min-height: 11in;
+    margin: 0;
+    padding: 0.32in 0.42in;
+    box-shadow: none;
+    overflow: hidden;
+  }
+
+  .resume-navigation {
+    display: none;
+  }
+
+  section {
+    break-inside: avoid;
+  }
+}
