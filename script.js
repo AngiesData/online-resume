@@ -12,12 +12,13 @@ const resumeData = {
   headline: "B.A. Liberal Arts-Business | CIS | MA Lic. | LSSBB | CPC-A | CPMA | CRC | RCMS| CPCO|",
 
   summary:
-    "Adaptable professional with experience in training, customer service, healthcare operations, and technology. Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly."
-    "Remote healthcare and IT professional with 5+ years of experience in insurance Financial Clearance and Revenue Cycle processing." 
-    "Lead duties include training, ER admits, data validation, and QA support." 
-    "Skilled at troubleshooting technical issues, training peers, and improving workflows across multiple systems." 
-    "Adept at learning new platforms quickly and balancing accuracy with high-volume demands in deadline-driven environments." 
-    "Education includes an associate’s degree in Computer Information Systems and currently pursuing a bachelors in Business Administration."  
+    "Adaptable professional with experience in training, customer service, healthcare operations, and technology." ,
+    "Skilled at explaining complex processes, supporting team performance, solving problems, and learning new systems quickly.",
+    "Remote healthcare and IT professional with 5+ years of experience in insurance Financial Clearance and Revenue Cycle processing." ,
+    "Lead duties include training, ER admits, data validation, and QA support." ,
+    "Skilled at troubleshooting technical issues, training peers, and improving workflows across multiple systems." ,
+    "Adept at learning new platforms quickly and balancing accuracy with high-volume demands in deadline-driven environments." ,
+    "Education includes an associate’s degree in Computer Information Systems and currently pursuing a bachelors in Business Administration."  ,
     "Seeking a remote evening or overnight position with structured on-the-job training during those hours. Availability includes nights, weekends, and Holidays.",
 
   contact: [
@@ -76,11 +77,11 @@ const resumeData = {
         "Train and support new employees from diverse professional backgrounds.",
         "Explain workflows, policies, and systems using clear step-by-step instruction.",
         "Identify learning gaps and provide individualized coaching and feedback.",
-        "Partner with leadership to improve onboarding and employee readiness."
-        "Distribute and monitor workflow for team, assist where needed; host daily huddles and forums to address payer updates, account or technical issues. Communication includes using Microsoft Outlook, Teams, emails, Jabber/Cisco & Finesse."
-        "Provide QA/QC review of accounts; perform insurance eligibility, referrals, and authorizations."
-        "Train staff on system changes; contributed to the previously used Waystar automation system testing and job aid documentation."
-        "Serve as go-to for collaborations, support, technical or account processing issues while maintaining regular specialist duties."  
+        "Partner with leadership to improve onboarding and employee readiness.",
+        "Distribute and monitor workflow for team, assist where needed; host daily huddles and forums to address payer updates, account or technical issues. Communication includes using Microsoft Outlook, Teams, emails, Jabber/Cisco & Finesse.",
+        "Provide QA/QC review of accounts; perform insurance eligibility, referrals, and authorizations.",
+        "Train staff on system changes; contributed to the previously used Waystar automation system testing and job aid documentation.",
+        "Serve as go-to for collaborations, support, technical or account processing issues while maintaining regular specialist duties.",  
       ]
     },
     {
@@ -91,11 +92,11 @@ const resumeData = {
         "Reviewed patient coverage and financial clearance requirements.",
         "Resolved insurance and authorization issues.",
         "Supported staff members with complex cases and workflow questions.",
-        "Maintained accurate documentation while protecting confidential information."
-        "Verified insurance coverage and pre-certifications across high-volume accounts."
-        "Conducted data entry, payer communication, and EMR system navigation with accuracy."
-        "Supported system testing for efficiency improvements and contributed workflow ideas."
-        "Earned Lean White Belt & Lean Yellow Belt certifications."
+        "Maintained accurate documentation while protecting confidential information.",
+        "Verified insurance coverage and pre-certifications across high-volume accounts.",
+        "Conducted data entry, payer communication, and EMR system navigation with accuracy.",
+        "Supported system testing for efficiency improvements and contributed workflow ideas.",
+        "Earned Lean White Belt & Lean Yellow Belt certifications.",
       ]
     }
 
@@ -104,12 +105,12 @@ const resumeData = {
         title: "Independent Healthcare Insurance Broker & Call Center Representative (Remote & Onsite)",
         organization: "Self-employed· Massachusetts",
         bullets: [
-        "Sold and serviced Health & Life insurance policies across multiple states."
-        "Managed applications, platform submissions, and compliance certifications."
-        "Prospected and recruited through cold calls, web conferences, and events."
-        "Processed insurance eligibility, referrals, and authorizations."
-        "Delivered inbound/outbound customer service and telesales support."
-        "Balanced high-volume data entry, correspondence, and system navigation."
+        "Sold and serviced Health & Life insurance policies across multiple states.",
+        "Managed applications, platform submissions, and compliance certifications.",
+        "Prospected and recruited through cold calls, web conferences, and events.",
+        "Processed insurance eligibility, referrals, and authorizations.",
+        "Delivered inbound/outbound customer service and telesales support.",
+        "Balanced high-volume data entry, correspondence, and system navigation.",
       ]
     }
 
@@ -119,9 +120,9 @@ const resumeData = {
       title: "Research Scientist III / Formulation Technician III",
       organization: "Confidential Employer (Biotech/Pharma Industy · Massachusetts",
       bullets: [
-        "Coordinated deadlines and managed projects independently and within teams.
-        "Trained new employees; maintained compliance with HIPAA, GLP/cGMP.
-        "Conducted calculations, compound formulation, and QA review of data."
+        "Coordinated deadlines and managed projects independently and within teams.",
+        "Trained new employees; maintained compliance with HIPAA, GLP/cGMP.",
+        "Conducted calculations, compound formulation, and QA review of data.".
       ]
     }
 
