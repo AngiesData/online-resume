@@ -22,12 +22,22 @@ const resumeData = {
   ],
 
   skills: [
-    "Training & Coaching",
-    "Critical Thinking",
-    "Process Improvement",
-    "Customer Service",
+    "Lead Specialist",
     "Team Leadership",
-    "Documentation"
+    "Training & Coaching",
+    "Insurance Coverage ELigibility Verification",
+    "Securing Prior Authorization",
+    "ER Admits",
+    "DAta Validation",
+    "QA Support",
+    "Troubleshooting Technical Skills",
+    "Improving Workflows across multiple systems",
+    "Prioritizing and Balancing High-Volume Demands",
+    "Critical Thinking",
+    "Creative Problem Solving",
+    "Process Improvement",
+    "EMbrace Complexity",
+  
   ],
 
   tools: [
