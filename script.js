@@ -230,7 +230,14 @@ const resumeData = {
         "Licensed for accident and health or sickness, life, and travel insurance."
       ]
     },
-
+    {
+      dates: "",
+      title: "Healthcare and Insurance Compliance Training",
+      organization: "Industry Regulations and Guidelines",
+      bullets: [
+        "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
+      ]
+    }
     {
       dates: "2026",
       title: "Lean Six Sigma Black Belt",
@@ -239,13 +246,12 @@ const resumeData = {
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, quality improvement, and project leadership."
       ]
     },
-
     {
-      dates: "",
-      title: "Healthcare and Insurance Compliance Training",
-      organization: "Industry Regulations and Guidelines",
+      dates: "2023",
+      title: "Complete Software Engineering",
+      organization: "NuCamp",
       bullets: [
-        "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
+        "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
       ]
     }
   ],
