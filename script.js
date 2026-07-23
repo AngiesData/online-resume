@@ -96,7 +96,7 @@ const resumeData = {
 
   experience: [
     {
-      dates: "06/2023 – Present",
+      dates: "06/2023 – <br>Present",
       title: "Lead Financial Clearance Specialist (Remote)",
       organization: "UMMHC · Massachusetts",
       bullets: [
@@ -115,7 +115,7 @@ const resumeData = {
     },
 
     {
-      dates: "03/2020 – 06/2023",
+      dates: "03/2020 – <br>06/2023",
       title: "Financial Clearance Specialist (Remote)",
       organization: "UMMHC · Massachusetts",
       bullets: [
@@ -131,7 +131,7 @@ const resumeData = {
     },
 
     {
-      dates: "2018 – 2021",
+      dates: "2018 – <br>2021",
       title:
         "Independent Healthcare Insurance Broker",
       organization: "Self-Employed · Massachusetts",
@@ -146,7 +146,7 @@ const resumeData = {
     },
 
     {
-      dates: "2012 – 2019",
+      dates: "2012 – <br>2019",
       title: "Research Scientist III / Formulation Technician III",
       organization:
         "Confidential Employer · Biotechnology and Pharmaceutical Industry · Massachusetts",
@@ -161,7 +161,7 @@ const resumeData = {
 
   education: [
 /*    {
-      dates: "Expected 2029",
+      dates: "Expected <br>2029",
       title: "Doctor of Business Administration",
       organization: "Acacia University",
       bullets: [
