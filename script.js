@@ -182,7 +182,7 @@ const resumeData = {
     
 
     {
-      dates: "Current · 2026",
+      dates: "Current · <br>2026",
       title: "Bachelor of Arts in Liberal Arts – Business Administration",
       organization: "Newlane University",
       bullets: [
@@ -191,7 +191,7 @@ const resumeData = {
     },
 
     {
-      dates: "Graduate 2025",
+      dates: "Graduate · <br>2025",
       title: "Associate of Science in Computer Information Systems",
       organization: "Ashworth College · Summa Cum Laude",
       bullets: [
@@ -231,7 +231,7 @@ const resumeData = {
       ]
     },
     {
-      dates: "Current · 2026",
+      dates: "Current · <br>2026",
       title: "State Health and Life Insurance License",
       organization: "Massachusetts · Multi-State",
       bullets: [
