@@ -183,7 +183,7 @@ const resumeData = {
 
     {
       dates: "Current · <br>2026",
-      title: "Bachelor of Arts in Liberal Arts – Business Administration",
+      title: "Bachelor of Arts in Liberal Arts • Business Administration",
       organization: "Newlane University",
       bullets: [
         "Current studies include leadership, interdisciplinary learning, communication, critical thinking, and business-related liberal arts education."
