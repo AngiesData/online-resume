@@ -200,7 +200,7 @@ const resumeData = {
     },
 
     {
-      dates: "2012",
+      dates: "Graduate · <br>2012",
       title: "Associate of Science in General Studies",
       organization: "Quinsigamond Community College",
       bullets: [
@@ -223,7 +223,7 @@ const resumeData = {
 
   certifications: [
    {
-      dates: "",
+      dates: "Current · <br>",
       title: "Healthcare and Insurance Compliance Training",
       organization: "Industry Regulations and Guidelines",
       bullets: [
@@ -231,7 +231,7 @@ const resumeData = {
       ]
     },
     {
-      dates: "Current · <br>2026",
+      dates: "Current · <br>",
       title: "State Health and Life Insurance License",
       organization: "Massachusetts · Multi-State",
       bullets: [
