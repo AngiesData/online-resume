@@ -241,7 +241,7 @@ const resumeData = {
     {
       dates: "2026",
       title: "Lean Six Sigma Black Belt",
-      organization: "Professional Development",
+      organization: "Six Sigma Global Institute",
       bullets: [
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, quality improvement, and project leadership."
       ]
