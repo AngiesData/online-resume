@@ -229,7 +229,7 @@ const resumeData = {
       bullets: [
         "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
       ]
-    }
+    },
     {
       dates: "Current · 2026",
       title: "State Health and Life Insurance License",
