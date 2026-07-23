@@ -222,6 +222,14 @@ const resumeData = {
   ],
 
   certifications: [
+   {
+      dates: "",
+      title: "Healthcare and Insurance Compliance Training",
+      organization: "Industry Regulations and Guidelines",
+      bullets: [
+        "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
+      ]
+    }
     {
       dates: "Current · 2026",
       title: "State Health and Life Insurance License",
@@ -230,14 +238,6 @@ const resumeData = {
         "Licensed for accident and health or sickness, life, and travel insurance."
       ]
     },
-    {
-      dates: "",
-      title: "Healthcare and Insurance Compliance Training",
-      organization: "Industry Regulations and Guidelines",
-      bullets: [
-        "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
-      ]
-    }
     {
       dates: "2026",
       title: "Lean Six Sigma Black Belt",
