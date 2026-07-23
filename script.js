@@ -202,7 +202,7 @@ const resumeData = {
     {
       dates: "Graduate · <br>2012",
       title: "Associate of Science in General Studies",
-      organization: "Quinsigamond Community College",
+      organization: "Quinsigamond Community College · High Honors Graduate",
       bullets: [
         "Relevant coursework included medical studies, computer systems, and general education."
       ]
