@@ -171,8 +171,8 @@ const resumeData = {
 
     {
       dates: "Expected 2028",
-      title: "Master of Business Administration",
-      organization: "Acacia University",
+      title: "Masters of Business Administration with a specialization in Healthcare Management", 
+      organization: "Nexford University",
       bullets: [
         "Planned studies include leadership, organizational behavior, communication, management, and business strategy."
       ]
@@ -183,8 +183,8 @@ const resumeData = {
 
     {
       dates: "Current · <br>2026",
-      title: "Bachelor of Arts in Liberal Arts • Business Administration",
-      organization: "Newlane University",
+      title: "Bachelor of Business Administration with a specialty in AI",
+      organization: "Nexford  University",
       bullets: [
         "Current studies include leadership, interdisciplinary learning, communication, critical thinking, and business-related liberal arts education."
       ]
