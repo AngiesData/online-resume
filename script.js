@@ -327,32 +327,7 @@ const resumeData = {
       ],
       linkText: "View Portfolio",
       link: "https://angiesdata.github.io/online-resume/"
-    },
-    
-    /*{
-      dates: "2026 – Present",
-      title: "Sophia",
-      organization: "College-Courses",
-      bullets: [
-        "Healthcare-management; Statistics; Project-Management Microeconomics; Managerial-Accounting; The World of Business",
-        "Introduction to Business Law; Principles of Management; Marketing Fundamentals; Human Resource Management; Data Analytics."
-      ],
-      linkText: "View Website",
-      link: "https://insurancewithangela.com"
-    },
-
-    {
-      dates: "2026 – Present",
-      title: "Study",
-      organization: "College-Courses",
-      bullets: [
-        "Healthcare Organization & Management; Ethical & Legal Issues in Healthcare; Human Resource Management in Healthcare;Healthcare Delivery Systems",
-        "Health Services Policy; Healthcare Quality & Outcome Measurement; Healthcare Informatics; Healthcare Systems & Roles; Healthcare in the U.S.; Patient Communication, Privacy, Rights & HIPAA."
-      ],
-      linkText: "View Website",
-      link: "https://insurancewithangela.com"
-    },/*
-    
+    },  
   ]
 };
 
