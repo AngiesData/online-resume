@@ -161,7 +161,7 @@ const resumeData = {
 
   education: [
 /*    {
-      dates: "Expected <br>2029",
+      dates: "Expected <br>2030",
       title: "Doctor of Business Administration",
       organization: "Acacia University",
       bullets: [
@@ -170,7 +170,7 @@ const resumeData = {
     },
 
     {
-      dates: "Expected 2028",
+      dates: "Expected 2029",
       title: "Masters of Business Administration with a specialization in Healthcare Management", 
       organization: "Nexford University",
       bullets: [
@@ -182,7 +182,7 @@ const resumeData = {
     
 
     {
-      dates: "Current · <br>2026",
+      dates: "Current · <br>2027",
       title: "Bachelor of Business Administration with a specialty in AI",
       organization: "Nexford  University",
       bullets: [
@@ -260,29 +260,38 @@ const resumeData = {
 
   
 
-/*  projects: [
+  projects: [
     {
-      dates: "2025",
-      title: "Around My Way Dashboard",
-      organization: "Personal Web Application",
+      dates: "Continuous",
+      title: "LinkedIn",
+      organization: "Data Specialist",
       bullets: [
-        "Built a customizable dashboard using Node.js, Express, EJS, Supabase, Bootstrap, HTML, CSS, and JavaScript.",
-        "Created authentication, user dashboards, responsive navigation, configurable widgets, and database-supported features."
+        "Data specialist."
+      ],
+      linkText: "View Linkedin",
+      link: "https://www.linkedin.com/in/angela-c-888657174/"
+    },
+    
+    {
+      dates: "Continuous",
+      title: "Tableau",
+      organization: "Data Specialist",
+      bullets: [
+        "Data visualization."
       ],
       linkText: "View GitHub",
-      link: "https://github.com/AngiesData"
+      link: "https://public.tableau.com/app/profile/angelacdata/vizzes"
     },
 
     {
-      dates: "2025 – Present",
-      title: "Insurance With Angela",
-      organization: "Professional Business Website",
+      dates: "2023",
+      title: "Portfolio",
+      organization: "NuCamp",
       bullets: [
-        "Designed and maintained a responsive informational website hosted through GitHub and Netlify.",
-        "Added resource pages, contact forms, privacy content, employer information, and a self-hosted website assistant."
+        "Software Engineering."
       ],
-      linkText: "View Website",
-      link: "https://insurancewithangela.com"
+      linkText: "View Linkedin",
+      link: "https://angelac-data.github.io/AngelasPortfolio.github.io/#"
     },
 
     {
@@ -295,8 +304,44 @@ const resumeData = {
       ],
       linkText: "View Portfolio",
       link: "https://angiesdata.github.io/online-resume/"
+    },
+    
+    {
+      dates: "2026 – Present",
+      title: "Sophia",
+      organization: "College-Courses",
+      bullets: [
+        "Healthcare-management; Statistics; Project-Management Microeconomics; Managerial-Accounting; The World of Business",
+        "Introduction to Business Law; Principles of Management; Marketing Fundamentals; Human Resource Management; Data Analytics."
+      ],
+      linkText: "View Website",
+      link: "https://insurancewithangela.com"
+    },
+
+    {
+      dates: "2026 – Present",
+      title: "STudy",
+      organization: "College-Courses",
+      bullets: [
+        "Healthcare Organization & Management; Ethical & Legal Issues in Healthcare; Human Resource Management in Healthcare;Healthcare Delivery Systems",
+        "Health Services Policy; Healthcare Quality & Outcome Measurement; Healthcare Informatics; Healthcare Systems & Roles; Healthcare in the U.S.; Patient Communication, Privacy, Rights & HIPAA."
+      ],
+      linkText: "View Website",
+      link: "https://insurancewithangela.com"
+    },
+    
+    {
+      dates: "2026 – Present",
+      title: "Online Resume and Professional Portfolio",
+      organization: "GitHub Pages",
+      bullets: [
+        "Created a responsive online resume using HTML, CSS, JavaScript, GitHub, and GitHub Pages.",
+        "Designed the site so professional experience, education, certifications, tools, skills, and projects can be updated over time."
+      ],
+      linkText: "View Portfolio",
+      link: "https://angiesdata.github.io/online-resume/"
     }
-  ]*/
+  ]
 
 
 
