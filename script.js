@@ -329,7 +329,7 @@ const resumeData = {
       link: "https://angiesdata.github.io/online-resume/"
     },
     
-    {
+    /*{
       dates: "2026 – Present",
       title: "Sophia",
       organization: "College-Courses",
@@ -351,7 +351,7 @@ const resumeData = {
       ],
       linkText: "View Website",
       link: "https://insurancewithangela.com"
-    },
+    },/*
     
   ]
 };
