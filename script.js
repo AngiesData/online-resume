@@ -253,7 +253,30 @@ const resumeData = {
       bullets: [
         "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
       ]
-    }
+    },
+   {
+      dates: "2026 – Present",
+      title: "Sophia",
+      organization: "College-Courses",
+      bullets: [
+        "Healthcare-management; Statistics; Project-Management Microeconomics; Managerial-Accounting; The World of Business",
+        "Introduction to Business Law; Principles of Management; Marketing Fundamentals; Human Resource Management; Data Analytics."
+      ],
+      linkText: "View Website",
+      link: "https://insurancewithangela.com"
+    },
+  
+    {
+      dates: "2026 – Present",
+      title: "Study",
+      organization: "College-Courses",
+      bullets: [
+        "Healthcare Organization & Management; Ethical & Legal Issues in Healthcare; Human Resource Management in Healthcare;Healthcare Delivery Systems",
+        "Health Services Policy; Healthcare Quality & Outcome Measurement; Healthcare Informatics; Healthcare Systems & Roles; Healthcare in the U.S.; Patient Communication, Privacy, Rights & HIPAA."
+      ],
+      linkText: "View Website",
+      link: "https://insurancewithangela.com"
+    },
   ],
 
 
@@ -320,7 +343,7 @@ const resumeData = {
 
     {
       dates: "2026 – Present",
-      title: "STudy",
+      title: "Study",
       organization: "College-Courses",
       bullets: [
         "Healthcare Organization & Management; Ethical & Legal Issues in Healthcare; Human Resource Management in Healthcare;Healthcare Delivery Systems",
@@ -330,22 +353,7 @@ const resumeData = {
       link: "https://insurancewithangela.com"
     },
     
-    {
-      dates: "2026 – Present",
-      title: "Online Resume and Professional Portfolio",
-      organization: "GitHub Pages",
-      bullets: [
-        "Created a responsive online resume using HTML, CSS, JavaScript, GitHub, and GitHub Pages.",
-        "Designed the site so professional experience, education, certifications, tools, skills, and projects can be updated over time."
-      ],
-      linkText: "View Portfolio",
-      link: "https://angiesdata.github.io/online-resume/"
-    }
   ]
-
-
-
-  
 };
 
 
