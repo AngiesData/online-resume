@@ -504,7 +504,7 @@ renderEntries("education-list", resumeData.education);
 renderEntries("certifications-list", resumeData.certifications);
 
 // Projects are temporarily hidden.
-// renderEntries("projects-list", resumeData.projects);
+renderEntries("projects-list", resumeData.projects);
 
 const yearElement = document.getElementById("year");
 const updatedDateElement = document.getElementById("updated-date");
