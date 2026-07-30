@@ -230,30 +230,30 @@ const resumeData = {
         "Training includes HIPAA, AML, LTC, annuities, AHIP, and SHOP."
       ]
     },
-    {
+   {
       dates: "Current · <br>",
       title: "State Health and Life Insurance License",
       organization: "Massachusetts · Multi-State",
       bullets: [
         "Licensed for accident and health or sickness, life, and travel insurance."
       ]
-    },
-    {
+   },
+   {
       dates: "2026",
       title: "Lean Six Sigma Black Belt",
       organization: "Six Sigma Global Institute",
       bullets: [
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, quality improvement, and project leadership."
       ]
-    },
-    {
+   },
+   {
       dates: "2023",
       title: "Complete Software Engineering",
       organization: "NuCamp",
       bullets: [
         "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
       ]
-    },
+   },
    {
       dates: "2026 – Present",
       title: "Sophia",
@@ -264,9 +264,9 @@ const resumeData = {
       ],
       linkText: "View Website",
       link: "https://insurancewithangela.com"
-    },
+   },
   
-    {
+   {
       dates: "2026 – Present",
       title: "Study",
       organization: "College-Courses",
@@ -276,7 +276,7 @@ const resumeData = {
       ],
       linkText: "View Website",
       link: "https://insurancewithangela.com"
-    },
+   },
   ],
 
 
