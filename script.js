@@ -186,7 +186,7 @@ const resumeData = {
       title: "Bachelor of Business Administration with a specialty in AI",
       organization: "Nexford  University",
       bullets: [
-        "Current studies include data modeling, intro to maketing, business law, principles of management, financial accounting/ managerial and cost analysis, auditing, project management, staffing and development, organizational relationships and leadership, data analytics, integrated communication, manageing people resources, AI, machine learning and predictive analyss, robotics and IoT, cybersecurity."
+        "Current studies include data modeling, intro to maketing, business law, principles of management, financial accounting/ managerial and cost analysis, auditing, project management, staffing and development, organizational relationships and leadership, data analytics, integrated communication, managing people resources, AI, machine learning and predictive analyss, robotics and IoT, cybersecurity."
       ]
     },
 
