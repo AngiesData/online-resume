@@ -31,7 +31,8 @@ const resumeData = {
     {
       label: "Email",
       value: "insurancewithangela@gmail.com",
-      link: "mailto:insurancewithangela@gmail.com"
+      link: "https://forms.gle/WTmX7LjEV7NKtMi27
+        "
     },
 /*    {
       label: "GitHub",
