@@ -246,14 +246,7 @@ const resumeData = {
         "Studied DMAIC, process mapping, root-cause analysis, statistical tools, waste reduction, quality improvement, and project leadership."
       ]
    },
-   {
-      dates: "2023",
-      title: "Complete Software Engineering",
-      organization: "NuCamp",
-      bullets: [
-        "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
-      ]
-   },
+
    {
       dates: "2026 – Present",
       title: "Sophia",
@@ -263,19 +256,34 @@ const resumeData = {
         "Introduction to Business Law; Principles of Management; Marketing Fundamentals; Human Resource Management; Data Analytics."
       ],
       linkText: "View Website",
-      link: "https://insurancewithangela.com"
+      link: ""
    },
-  
    {
-      dates: "2026 – Present",
+      dates: "2025",
+      title: "Honor Society",
+      organization: "DET",
+      bullets: [
+        "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
+      ]
+   },
+    
+   {
+      dates: "2023",
+      title: "Complete Software Engineering",
+      organization: "NuCamp",
+      bullets: [
+        "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
+      ]
+   },
+   {
+      dates: "2025 ",
       title: "Study",
       organization: "College-Courses",
       bullets: [
-        "Healthcare Organization & Management; Ethical & Legal Issues in Healthcare; Human Resource Management in Healthcare;Healthcare Delivery Systems",
-        "Health Services Policy; Healthcare Quality & Outcome Measurement; Healthcare Informatics; Healthcare Systems & Roles; Healthcare in the U.S.; Patient Communication, Privacy, Rights & HIPAA."
+        "ΔΕΤ"
       ],
       linkText: "View Website",
-      link: "https://insurancewithangela.com"
+      link: ""
    },
   ],
 
