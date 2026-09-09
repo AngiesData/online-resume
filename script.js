@@ -263,7 +263,7 @@ const resumeData = {
       title: "Honor Society",
       organization: "DET",
       bullets: [
-        "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
+        "ΔΕΤ"
       ]
    },
     
@@ -274,16 +274,6 @@ const resumeData = {
       bullets: [
         "Bootcamp Path: Front End, Back End, Full Stack. <br> HTML, CSS, Bootstrap, JavaScript, DOM Manipulation, React, ReactNative, Expo, Responsive Web into hybrid mobile app for iOS and Android. <br>Python. SQL,noSQL, Flask, Django, Node, PostGreSQL, DOcker, CI/CD, MongoDB.<br> 3 Clouds Amazon AWS, Microsoft Azure, Google Cloud."
       ]
-   },
-   {
-      dates: "2025 ",
-      title: "Study",
-      organization: "College-Courses",
-      bullets: [
-        "ΔΕΤ"
-      ],
-      linkText: "View Website",
-      link: ""
    },
   ],
 
