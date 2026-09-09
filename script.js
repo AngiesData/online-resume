@@ -162,10 +162,10 @@ const resumeData = {
   education: [
 /*    {
       dates: "Expected <br>2030",
-      title: "Doctor of Business Administration",
-      organization: "Acacia University",
+      title: "Doctorate of Healthcare Administration (DHA)",
+      organization: "OKlahoma State University",
       bullets: [
-        "Planned studies include leadership, organizational behavior, communication, management, and business strategy."
+        "Planned studies include healthcareleadership, public policy, healthcare quality and process improvement in organizational behavior, communication,operations  management, and business strategy."
       ]
     },
 
@@ -174,7 +174,7 @@ const resumeData = {
       title: "Masters of Business Administration with a specialization in Healthcare Management", 
       organization: "Nexford University",
       bullets: [
-        "Planned studies include leadership, organizational behavior, communication, management, and business strategy."
+        "Studies include: digital technologies and health informatics in modern healthcare. leadership and organizational development, optimizing modern business operations and organizational behavior, communication, healthcare management, and business strategy, principles of corporate finance and accounting, financial statements, financial forecasting and budgeting, accounting analytics."
       ]
     },*/
 
@@ -182,11 +182,11 @@ const resumeData = {
     
 
     {
-      dates: "Current · <br>2027",
+      dates: "Current · <br>2026",
       title: "Bachelor of Business Administration with a specialty in AI",
       organization: "Nexford  University",
       bullets: [
-        "Current studies include leadership, interdisciplinary learning, communication, critical thinking, and business-related liberal arts education."
+        "Current studies include data modeling, intro to maketing, business law, principles of management, financial accounting/ managerial and cost analysis, auditing, project management, staffing and development, organizational relationships and leadership, data analytics, integrated communication, manageing people resources, AI, machine learning and predictive analyss, robotics and IoT, cybersecurity."
       ]
     },
 
