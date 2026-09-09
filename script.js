@@ -30,7 +30,7 @@ const resumeData = {
     },
     {
       label: "Email",
-      value: "ttps://forms.gle/WTmX7LjEV7NKtMi27",
+      value: "https://forms.gle/WTmX7LjEV7NKtMi27",
       link: "https://forms.gle/WTmX7LjEV7NKtMi27"
     },
 /*    {
